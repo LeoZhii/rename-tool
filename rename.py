@@ -38,4 +38,4 @@ for old_filename in os.listdir('.'):
                 os.path.join("renamed_files", new_filename))
 
     int += 1
-    print("success\n")
+print("success\n")
